@@ -1,8 +1,3 @@
----
-title: "README"
-output: html_document
----
-
 # Property Cash Flow & Comparison Tool
 
 The **Property Cash Flow & Comparison Tool** is a Shiny-based CRUD application built with R. It allows users to input property details, calculate expected monthly cash flows based on mortgage and operating cost inputs, and compare multiple properties side by side. All data is stored in a persistent SQLite database so that properties remain saved even after the app is reloaded.
